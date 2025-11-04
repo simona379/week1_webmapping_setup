@@ -144,8 +144,10 @@ week1_webmapping_setup/
 	•	Secure environment variables using .env
 	•	Django middleware for XSS and CSRF protection enabled
 
-🚀 Future Improvements
-	•	✅ Add user authentication for saved searches
-	•	🌐 Deploy to cloud (Render / Railway / Docker)
-	•	📊 Add city comparison visualizations
-	•	🧭 Integrate location autocomplete with Mapbox or Nominatim
+⸻
+
+ Future Improvements
+	•	Add user authentication for saved searches
+	•	Deploy to cloud (Render / Railway / Docker)
+	•	Add city comparison visualizations
+	•	Integrate location autocomplete with Mapbox or Nominatim
