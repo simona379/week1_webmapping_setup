@@ -1,0 +1,33 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.log
+*.sqlite3
+local_settings.py
+.env
+
+# Virtual envs
+venv/
+env/
+*_env/
+
+# Django collectstatic & user uploads
+staticfiles/
+media/
+
+# Node / misc
+node_modules/
+.DS_Store
+.idea/
+.vscode/
+
+# Big geodata you don’t want in git history
+spatial_data/shapefiles/
+*.zip
+*.tif
+*.gpkg
+*.shp
+*.dbf
+*.shx
+*.prj
+*.geojson
